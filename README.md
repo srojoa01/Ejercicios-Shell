@@ -1,7 +1,6 @@
-# Ejercicios-Shell
+# Ejercicios-Shell Script 01 - Básicos
 
 
-Ejercicios de Shell Script 01 - Básicos 
 1. Realizar un script llamado '01-hola-mundo.sh' que muestre por pantalla "Hola mundo!". 
 
 2. Ídem pero que en vez de "mundo" muestre los parámetros introducidos ('02-holaparametros.sh'). 
